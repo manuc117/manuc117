@@ -1,4 +1,6 @@
-## Hi there 👋
+## Manuela Calvo
+
+Estudiante avanzada de bioingeniería.
 
 <!--
 **manuc117/manuc117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
